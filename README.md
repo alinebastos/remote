@@ -18,22 +18,15 @@ Jobs and Tips for remote work
 - https://github.com/lerrua/remote-jobs-brazil
 - https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0
 - http://stackoverflow.com/jobs
-- http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/
 - https://techmeabroad.com/
-- https://remoteok.io/remote-jobs/19943-remote-frontend-developer-yet
-- https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7
+- https://remoteok.io/remote-jobs/
 - https://weworkremotely.com/
-- https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.76d13s6i8
-- https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.brjkny90b
 - http://careers.lobsterink.com/
 - http://foundedinholland.com/
-- https://medium.com/@sapy/7-interview-questions-and-answers-frontend-engineer-8b19f10697a4
-- https://github.com/LFeh/frontend-challenges
 - https://github.com/lukasz-madon/awesome-remote-job#job-boards
 - https://github.com/frontendbr/vagas/issues
 - http://sourced.tech/
 - https://www.thoughtworks.com/pt/careers/application-process
-- https://app.honeypot.io/users/login#!
 - https://www.upwork.com/
 - https://github.com/lukasz-madon/awesome-remote-job
 - http://codenation.com.br/
@@ -46,8 +39,10 @@ Jobs and Tips for remote work
 - https://remotive.io/find-a-job/#s=1
 - http://frontenddeveloperjob.com/
 - https://goremote.io/
-- https://automattic.com/work-with-us/
-- https://www.women2.com/2017/08/21/7-awesome-companies-offering-remote-tech-jobs-for-women-engineers/
 - https://tri.be/careers/
-- https://guiadotrabalhoremoto.com/
 - https://www.osf-global.com/jobs-at-osf
+
+### Tips
+- http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/
+- https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7
+- https://guiadotrabalhoremoto.com/

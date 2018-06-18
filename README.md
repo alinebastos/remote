@@ -50,3 +50,4 @@ Jobs and Tips for remote work
 - https://www.women2.com/2017/08/21/7-awesome-companies-offering-remote-tech-jobs-for-women-engineers/
 - https://tri.be/careers/
 - https://guiadotrabalhoremoto.com/
+- https://www.osf-global.com/jobs-at-osf

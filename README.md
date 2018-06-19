@@ -1,7 +1,7 @@
 # Remote
 Jobs and Tips for remote work
 
-### Jobs
+### Companies with remote positions
 - https://automattic.com/work-with-us/
 - https://www.toptal.com/careers
 - https://github.com/about/careers
@@ -12,8 +12,13 @@ Jobs and Tips for remote work
 - https://securityscorecard.com/company/careers
 - https://duckduckgo.com/hiring/
 - https://app.crossover.com/x/marketplace/available-jobs
-- https://www.womenwhocode.com/jobs
 - https://www.axios.com/about#jobs
+- http://careers.lobsterink.com/
+- https://tri.be/careers/
+- https://www.osf-global.com/jobs-at-osf
+
+### Jobs
+- https://www.womenwhocode.com/jobs
 - https://skillcrush.com/2016/05/05/remote-tech-jobs/
 - https://github.com/lerrua/remote-jobs-brazil
 - https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0
@@ -21,12 +26,10 @@ Jobs and Tips for remote work
 - https://techmeabroad.com/
 - https://remoteok.io/remote-jobs/
 - https://weworkremotely.com/
-- http://careers.lobsterink.com/
 - http://foundedinholland.com/
 - https://github.com/lukasz-madon/awesome-remote-job#job-boards
 - https://github.com/frontendbr/vagas/issues
 - http://sourced.tech/
-- https://www.thoughtworks.com/pt/careers/application-process
 - https://www.upwork.com/
 - https://github.com/lukasz-madon/awesome-remote-job
 - http://codenation.com.br/
@@ -39,8 +42,6 @@ Jobs and Tips for remote work
 - https://remotive.io/find-a-job/#s=1
 - http://frontenddeveloperjob.com/
 - https://goremote.io/
-- https://tri.be/careers/
-- https://www.osf-global.com/jobs-at-osf
 
 ### Tips
 - http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/

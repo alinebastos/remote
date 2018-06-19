@@ -17,6 +17,7 @@ Jobs and Tips for remote work
 - https://tri.be/careers/
 - https://www.osf-global.com/jobs-at-osf
 - https://github.com/lerrua/remote-jobs-brazil
+- https://www.cycloid.io/jobs
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

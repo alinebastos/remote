@@ -16,11 +16,11 @@ Jobs and Tips for remote work
 - http://careers.lobsterink.com/
 - https://tri.be/careers/
 - https://www.osf-global.com/jobs-at-osf
+- https://github.com/lerrua/remote-jobs-brazil
 
 ### Job portals
 - https://www.womenwhocode.com/jobs
 - https://skillcrush.com/2016/05/05/remote-tech-jobs/
-- https://github.com/lerrua/remote-jobs-brazil
 - https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0
 - http://stackoverflow.com/jobs
 - https://techmeabroad.com/
@@ -31,7 +31,6 @@ Jobs and Tips for remote work
 - https://github.com/frontendbr/vagas/issues
 - http://sourced.tech/
 - https://www.upwork.com/
-- https://github.com/lukasz-madon/awesome-remote-job
 - http://codenation.com.br/
 - https://angel.co/
 - https://remote.co/remote-jobs/developer/

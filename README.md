@@ -43,6 +43,8 @@ Jobs and Tips for remote work
 - https://remotive.io/find-a-job/#s=1
 - http://frontenddeveloperjob.com/
 - https://goremote.io/
+- [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
+- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
 
 ### Newsletter
 - https://remotejobsclub.com/

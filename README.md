@@ -19,6 +19,7 @@ Jobs and Tips for remote work
 - https://github.com/lerrua/remote-jobs-brazil
 - https://www.cycloid.io/jobs
 - https://zapier.com/jobs/
+- https://soshace.com/
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

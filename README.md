@@ -20,6 +20,7 @@ Jobs and Tips for remote work
 - https://www.cycloid.io/jobs
 - https://zapier.com/jobs/
 - https://soshace.com/
+- https://meucredere.com.br
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

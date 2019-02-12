@@ -5,7 +5,7 @@ Jobs and Tips for remote work
 - https://automattic.com/work-with-us/
 - https://www.toptal.com/careers
 - https://github.com/about/careers
-- https://status.im/open-positions.html
+- https://status.im/contribute/open_positions.html
 - https://mixmax.com/careers/
 - https://new.consensys.net/careers/
 - https://www.invisionapp.com/company#jobs

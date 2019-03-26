@@ -21,6 +21,7 @@ Jobs and Tips for remote work
 - https://zapier.com/jobs/
 - https://soshace.com/
 - https://meucredere.com.br
+- http://leanwork.com.br
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

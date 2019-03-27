@@ -49,6 +49,13 @@ Jobs and Tips for remote work
 - https://goremote.io/
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
 - [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote
+- https://landing.jobs
+- https://remotejobsbr.com/
+- https://itjobs.pt
+- https://www.glassdoor.com/
+- http://vanhack.com
+- https://www.monster.com/
+- https://remote.com
 
 ### Newsletter
 - https://remotejobsclub.com/

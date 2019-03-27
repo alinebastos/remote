@@ -22,6 +22,7 @@ Jobs and Tips for remote work
 - https://soshace.com/
 - https://meucredere.com.br
 - http://leanwork.com.br
+- https://doist.com/jobs/
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

@@ -56,6 +56,7 @@ Jobs and Tips for remote work
 - http://vanhack.com
 - https://www.monster.com/
 - https://remote.com
+- https://impulso.work - Offer remote jobs manage payments and all kind of support for workers.
 
 ### Newsletter
 - https://remotejobsclub.com/

@@ -64,4 +64,3 @@ Jobs and Tips for remote work
 ### Tips
 - http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/
 - https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7
-- https://guiadotrabalhoremoto.com/

@@ -23,6 +23,7 @@ Jobs and Tips for remote work
 - https://meucredere.com.br
 - http://leanwork.com.br
 - https://doist.com/jobs/
+- https://www.redoxengine.com/company/careers/
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

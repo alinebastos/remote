@@ -20,10 +20,12 @@ Jobs and Tips for remote work
 - https://www.cycloid.io/jobs
 - https://zapier.com/jobs/
 - https://soshace.com/
-- https://meucredere.com.br
 - http://leanwork.com.br
 - https://doist.com/jobs/
 - https://www.redoxengine.com/company/careers/
+
+### Brazilian companies with remote positions
+- https://meucredere.com.br
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

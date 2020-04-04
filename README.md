@@ -23,6 +23,7 @@ Jobs and Tips for remote work
 - http://leanwork.com.br
 - https://doist.com/jobs/
 - https://www.redoxengine.com/company/careers/
+- https://opencollective.com/hiring
 
 ### Brazilian companies with remote positions
 - https://meucredere.com.br

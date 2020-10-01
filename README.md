@@ -37,6 +37,7 @@ Jobs and Tips for remote work
 - http://stackoverflow.com/jobs
 - https://techmeabroad.com/
 - https://remoteok.io/remote-jobs/
+- https://remoterole.com/
 - https://weworkremotely.com/
 - http://foundedinholland.com/
 - https://github.com/lukasz-madon/awesome-remote-job#job-boards

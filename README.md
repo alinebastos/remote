@@ -64,6 +64,7 @@ Jobs and Tips for remote work
 - https://www.monster.com/
 - https://remote.com
 - https://impulso.work - Offer remote jobs manage payments and all kind of support for workers.
+- https://standardresume.co/remote-jobs - Filter for remote jobs hiring from your location
 
 ### Newsletter
 - https://remotejobsclub.com/

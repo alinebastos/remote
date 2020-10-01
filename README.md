@@ -27,6 +27,8 @@ Jobs and Tips for remote work
 
 ### Brazilian companies with remote positions
 - https://meucredere.com.br
+- https://www.service.com.br/
+- https://www.telefonica.com.br/
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

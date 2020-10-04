@@ -30,11 +30,17 @@ Jobs and Tips for remote work
 - https://cargobr.com/ 
 - http://www.enjoei.com.br/ 
 - https://vagas.iclinic.com.br/ 
+- https://impulso.network/ 
+- http://instruct.com.br/jobs 
 - https://invillia.com/ 
+- https://www.m4u.com.br 
 - https://meucredere.com.br
-- https://www.mundiale.com.br/ 
+- https://www.mundiale.com.br/
+- https://olist.com/  
 - https://www.sanarmed.com/ 
 - https://www.service.com.br/
+- https://smartmei.recruiterbox.com/jobs 
+- http://taller.net.br/
 - https://www.telefonica.com.br/
 
 ### Job portals

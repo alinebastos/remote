@@ -26,7 +26,14 @@ Jobs and Tips for remote work
 - https://opencollective.com/hiring
 
 ### Brazilian companies with remote positions
+- https://bossabox.com/ 
+- https://cargobr.com/ 
+- http://www.enjoei.com.br/ 
+- https://vagas.iclinic.com.br/ 
+- https://invillia.com/ 
 - https://meucredere.com.br
+- https://www.mundiale.com.br/ 
+- https://www.sanarmed.com/ 
 - https://www.service.com.br/
 - https://www.telefonica.com.br/
 

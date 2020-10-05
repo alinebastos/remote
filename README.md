@@ -42,6 +42,7 @@ Jobs and Tips for remote work
 - https://smartmei.recruiterbox.com/jobs 
 - http://taller.net.br/
 - https://www.telefonica.com.br/
+- https://www.xpi.com.br/
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

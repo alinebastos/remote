@@ -26,23 +26,23 @@ Jobs and Tips for remote work
 - [Zapier] (https://zapier.com/jobs/)
 
 ### Brazilian companies with remote positions
-- https://bossabox.com/ 
-- https://cargobr.com/ 
-- http://www.enjoei.com.br/ 
-- https://vagas.iclinic.com.br/ 
-- https://impulso.network/ 
-- http://instruct.com.br/jobs 
-- https://invillia.com/ 
-- https://www.m4u.com.br 
-- https://meucredere.com.br
-- https://www.mundiale.com.br/
-- https://olist.com/  
-- https://www.sanarmed.com/ 
-- https://www.service.com.br/
-- https://smartmei.recruiterbox.com/jobs 
-- http://taller.net.br/
-- https://www.telefonica.com.br/
-- https://www.xpi.com.br/
+- [BossaBox] (https://bossabox.com/)
+- [CargoBr] (https://cargobr.com/) 
+- [Credere] (https://meucredere.com.br)
+- [Enjoei] (http://www.enjoei.com.br/)
+- [iClinic] (https://vagas.iclinic.com.br/)
+- [Impulso] (https://impulso.network/)
+- [Instruct] (http://instruct.com.br/jobs) 
+- [Invillia] (https://invillia.com/) 
+- [M4U] (https://www.m4u.com.br)
+- [Mundiale] (https://www.mundiale.com.br/)
+- [Olist] (https://olist.com/)  
+- [Sanar|Med] (https://www.sanarmed.com/) 
+- [Service] (https://www.service.com.br/)
+- [SmartMEI] (https://smartmei.recruiterbox.com/jobs) 
+- [Taller] (http://taller.net.br/)
+- [Telefonica] (https://www.telefonica.com.br/)
+- [XP] (https://www.xpi.com.br/)
 
 ### Job portals
 - https://www.womenwhocode.com/jobs

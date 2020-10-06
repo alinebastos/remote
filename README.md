@@ -2,28 +2,28 @@
 Jobs and Tips for remote work
 
 ### Companies with remote positions
-- https://automattic.com/work-with-us/
-- https://www.toptal.com/careers
-- https://github.com/about/careers
-- https://status.im/contribute/open_positions.html
-- https://mixmax.com/careers/
-- https://new.consensys.net/careers/
-- https://www.invisionapp.com/company#jobs
-- https://securityscorecard.com/company/careers
-- https://duckduckgo.com/hiring/
-- https://app.crossover.com/x/marketplace/available-jobs
-- https://www.axios.com/about#jobs
-- https://lobsterink.com/careers/
-- https://tri.be/careers/
-- https://www.osf-global.com/jobs-at-osf
-- https://github.com/lerrua/remote-jobs-brazil
-- https://www.cycloid.io/jobs
-- https://zapier.com/jobs/
-- https://soshace.com/
-- http://leanwork.com.br
-- https://doist.com/jobs/
-- https://www.redoxengine.com/company/careers/
-- https://opencollective.com/hiring
+- [Automattic] (https://automattic.com/work-with-us/)
+- [Axios] (https://www.axios.com/about#jobs)
+- [Consensys] (https://new.consensys.net/careers/)
+- [Cros|sover] (https://app.crossover.com/x/marketplace/available-jobs)
+- [Cycloid] (https://www.cycloid.io/jobs)
+- [Doist] (https://doist.com/jobs/)
+- [DuckDuckGo] (https://duckduckgo.com/hiring/)
+- [Github] (https://github.com/about/careers)
+- [Github Brazil] (https://github.com/lerrua/remote-jobs-brazil)
+- [InVision] (https://www.invisionapp.com/company#jobs)
+- [Leanwork] (http://leanwork.com.br)
+- [LobsterInk] (https://lobsterink.com/careers/)
+- [Mixmax] (https://mixmax.com/careers/)
+- [Open Collective] (https://opencollective.com/hiring)
+- [OSF Digital] (https://www.osf-global.com/jobs-at-osf)
+- [Redox Engineer] (https://www.redoxengine.com/company/careers/)
+- [Security Scorecard] (https://securityscorecard.com/company/careers)
+- [Status] (https://status.im/contribute/open_positions.html)
+- [Soshace] (https://soshace.com/)
+- [Toptal] (https://www.toptal.com/careers)
+- [Tribe] (https://tri.be/careers/)
+- [Zapier] (https://zapier.com/jobs/)
 
 ### Brazilian companies with remote positions
 - https://bossabox.com/ 

@@ -3,6 +3,7 @@ Jobs and Tips for remote work
 
 ### Companies with remote positions
 - [Automattic](https://automattic.com/work-with-us/)
+- [Avanade](https://www.avanade.com/pt-br/careers)
 - [Axios](https://www.axios.com/about#jobs)
 - [Consensys](https://new.consensys.net/careers/)
 - [Cros|sover](https://app.crossover.com/x/marketplace/available-jobs)

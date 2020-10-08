@@ -1,32 +1,34 @@
 # Remote
-Jobs and Tips for remote work
+Jobs and Tips for Remote Work
+
 
 ### Companies with remote positions
 - [Automattic](https://automattic.com/work-with-us/)
 - [Avanade](https://www.avanade.com/pt-br/careers)
 - [Axios](https://www.axios.com/about#jobs)
 - [Consensys](https://new.consensys.net/careers/)
-- [Cros|sover](https://app.crossover.com/x/marketplace/available-jobs)
+- [Cross Over](https://app.crossover.com/x/marketplace/available-jobs)
 - [Cycloid](https://www.cycloid.io/jobs)
-- [Doist](https://doist.com/jobs/)
+- [doist](https://doist.com/jobs/)
 - [DuckDuckGo](https://duckduckgo.com/hiring/)
-- [Github](https://github.com/about/careers)
+- [GitHub](https://github.com/about/careers)
 - [Github Brazil](https://github.com/lerrua/remote-jobs-brazil)
-- [InVision](https://www.invisionapp.com/company#jobs)
-- [Leanwork](http://leanwork.com.br)
-- [LobsterInk](https://lobsterink.com/careers/)
+- [Invision](https://www.invisionapp.com/company#jobs)
+- [LeanWork](http://leanwork.com.br)
+- [Lobster Ink](https://lobsterink.com/careers/)
 - [Mixmax](https://mixmax.com/careers/)
 - [Open Collective](https://opencollective.com/hiring)
 - [OSF Digital](https://www.osf-global.com/jobs-at-osf)
-- [Redox Engineer](https://www.redoxengine.com/company/careers/)
+- [Redox](https://www.redoxengine.com/company/careers/)
 - [Security Scorecard](https://securityscorecard.com/company/careers)
+- [SOS hace](https://soshace.com/)
 - [Status](https://status.im/contribute/open_positions.html)
-- [Soshace](https://soshace.com/)
 - [Toptal](https://www.toptal.com/careers)
 - [Tribe](https://tri.be/careers/)
 - [Zapier](https://zapier.com/jobs/)
 
 ### Brazilian companies with remote positions
+
 - [BossaBox](https://bossabox.com/)
 - [CargoBr](https://cargobr.com/) 
 - [Credere](https://meucredere.com.br)
@@ -79,8 +81,8 @@ Jobs and Tips for remote work
 - [Working Nomads](https://www.workingnomads.co/)
 
 ### Newsletter
-- https://remotejobsclub.com/
+- [Remote Jobs Club](https://remotejobsclub.com/) - Receive Jobs oportunitys in your email.
 
 ### Tips
-- http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/
-- https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7
+- [Como se preparar pra uma entrevista de desenvolvedor para fora do Brasil](https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7)
+- [Life hacks for software developers: how to find a job with relocation to Europe](http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/)

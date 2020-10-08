@@ -3,6 +3,7 @@ Jobs and Tips for remote work
 
 ### Companies with remote positions
 - [Automattic](https://automattic.com/work-with-us/)
+- [Avanade](https://www.avanade.com/pt-br/careers)
 - [Axios](https://www.axios.com/about#jobs)
 - [Consensys](https://new.consensys.net/careers/)
 - [Cros|sover](https://app.crossover.com/x/marketplace/available-jobs)
@@ -34,12 +35,14 @@ Jobs and Tips for remote work
 - [Impulso](https://impulso.network/)
 - [Instruct](http://instruct.com.br/jobs) 
 - [Invillia](https://invillia.com/) 
+- [Juno](https://juno.gupy.io/)
 - [M4U](https://www.m4u.com.br)
 - [Mundiale](https://www.mundiale.com.br/)
 - [Olist](https://olist.com/)  
 - [Sanar|Med](https://www.sanarmed.com/) 
 - [Service](https://www.service.com.br/)
 - [SmartMEI](https://smartmei.recruiterbox.com/jobs) 
+- [Stefanini Everywhere](https://jobs.kenoby.com/everywhere) 
 - [Taller](http://taller.net.br/)
 - [Telefonica](https://www.telefonica.com.br/)
 - [XP](https://www.xpi.com.br/)

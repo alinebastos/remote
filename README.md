@@ -48,6 +48,9 @@ Jobs and Tips for Remote Work
 - [Taller](http://taller.net.br/)
 - [Telefonica](https://www.telefonica.com.br/)
 - [XP](https://www.xpi.com.br/)
+- [Zapier](https://zapier.com/jobs/)
+- [Sinqia](https://www.sinqia.com.br/fale-conosco/trabalhe-conosco/)
+
 
 ### Job portals
 - [Angel](https://angel.co/)

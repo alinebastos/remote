@@ -38,6 +38,7 @@ Jobs and Tips for Remote Work
 - [Instruct](http://instruct.com.br/jobs) 
 - [Invillia](https://invillia.gupy.io/) 
 - [Juno](https://juno.gupy.io/)
+- [LuizaLabs](https://www.99jobs.com/luizalabs/jobs)
 - [M4U](https://m4u.gupy.io/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)  

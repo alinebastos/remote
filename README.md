@@ -14,7 +14,7 @@ Jobs and Tips for Remote Work
 - [GitHub](https://github.com/about/careers)
 - [Github Brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [Invision](https://www.invisionapp.com/company#jobs)
-- [LeanWork](http://leanwork.com.br)
+- [LeanWork](https://www.leanwork.com.br/vagas)
 - [Lobster Ink](https://lobsterink.com/careers/)
 - [Mixmax](https://mixmax.com/careers/)
 - [Open Collective](https://opencollective.com/hiring)
@@ -22,6 +22,7 @@ Jobs and Tips for Remote Work
 - [Redox](https://www.redoxengine.com/company/careers/)
 - [Security Scorecard](https://securityscorecard.com/company/careers)
 - [SOS hace](https://soshace.com/)
+- [StackOverflow](https://stackoverflow.com/company/work-here)
 - [Status](https://status.im/contribute/open_positions.html)
 - [Toptal](https://www.toptal.com/careers)
 - [Tribe](https://tri.be/careers/)
@@ -29,28 +30,29 @@ Jobs and Tips for Remote Work
 
 ### Brazilian companies with remote positions
 
-- [BossaBox](https://bossabox.com/)
+- [BossaBox](https://bossabox.recruitee.com/#)
 - [CargoBr](https://cargobr.com/) 
 - [Credere](https://meucredere.com.br)
-- [Enjoei](http://www.enjoei.com.br/)
+- [Enjoei](https://enjoei.gupy.io/)
+- [Estratégia Educacional](https://www.linkedin.com/company/estrategia-educacional/jobs/)
 - [iClinic](https://vagas.iclinic.com.br/)
-- [Impulso](https://impulso.network/)
+- [Impulso](https://impulso.network/lista-de-oportunidades)
 - [Instruct](http://instruct.com.br/jobs) 
-- [Invillia](https://invillia.com/) 
+- [Invillia](https://invillia.gupy.io/) 
 - [Juno](https://juno.gupy.io/)
-- [M4U](https://www.m4u.com.br)
-- [Mundiale](https://www.mundiale.com.br/)
-- [Olist](https://olist.com/)  
+- [LEVTY](https://levty.com/carreiras/vagas)
+- [LuizaLabs](https://www.99jobs.com/luizalabs/jobs)
+- [M4U](https://m4u.gupy.io/)
+- [Mundiale](https://www.mundiale.com.br/carreira/)
+- [Olist](https://olist.com/carreira/)  
 - [Sanar|Med](https://www.sanarmed.com/) 
-- [Service](https://www.service.com.br/)
+- [Service](https://www.service.com.br/carreiras/)
+- [Sinqia](https://jobs.kenoby.com/sinqia)
 - [SmartMEI](https://smartmei.recruiterbox.com/jobs) 
 - [Stefanini Everywhere](https://jobs.kenoby.com/everywhere) 
-- [Taller](http://taller.net.br/)
-- [Telefonica](https://www.telefonica.com.br/)
-- [XP](https://www.xpi.com.br/)
-- [Zapier](https://zapier.com/jobs/)
-- [Sinqia](https://jobs.kenoby.com/sinqia)
-
+- [Taller](https://blog.taller.net.br/taller-contrata/)
+- [Telefonica](https://vivo.gupy.io/)
+- [XP](https://www.xpi.com.br/carreiras/)
 
 ### Job portals
 - [Angel](https://angel.co/)
@@ -84,7 +86,7 @@ Jobs and Tips for Remote Work
 - [Working Nomads](https://www.workingnomads.co/)
 
 ### Newsletter
-- [Remote Jobs Club](https://remotejobsclub.com/) - Receive Jobs oportunitys in your email.
+- [Remote Jobs Club](https://remotejobsclub.com/) - Receive job oportunities in your email.
 
 ### Tips
 - [Como se preparar pra uma entrevista de desenvolvedor para fora do Brasil](https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7)

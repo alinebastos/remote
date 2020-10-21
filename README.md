@@ -47,6 +47,7 @@ Jobs and Tips for Remote Work
 - [Olist](https://olist.com/carreira/)  
 - [Sanar|Med](https://www.sanarmed.com/) 
 - [Service](https://www.service.com.br/carreiras/)
+- [Sinqia](https://jobs.kenoby.com/sinqia)
 - [SmartMEI](https://smartmei.recruiterbox.com/jobs) 
 - [Stefanini Everywhere](https://jobs.kenoby.com/everywhere) 
 - [Taller](https://blog.taller.net.br/taller-contrata/)

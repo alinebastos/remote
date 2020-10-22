@@ -30,6 +30,7 @@ Jobs and Tips for Remote Work
 
 ### Brazilian companies with remote positions
 
+- [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
 - [BossaBox](https://bossabox.recruitee.com/#)
 - [CargoBr](https://cargobr.com/) 
 - [Credere](https://meucredere.com.br)

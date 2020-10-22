@@ -57,6 +57,7 @@ Jobs and Tips for Remote Work
 
 ### Job portals
 - [Angel](https://angel.co/)
+- [Back-end Brasil](https://github.com/backend-br/vagas/issues)
 - [Codenation](http://codenation.com.br/)
 - [Foundedinholland](http://foundedinholland.com/)
 - [Front-end Brasil](https://github.com/frontendbr/vagas/issues)

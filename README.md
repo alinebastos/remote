@@ -42,6 +42,7 @@ Jobs and Tips for Remote Work
 - [Invillia](https://invillia.gupy.io/) 
 - [Juno](https://juno.gupy.io/)
 - [LEVTY](https://levty.com/carreiras/vagas)
+- [Loft](https://jobs.lever.co/loft/?department=Loft&team=Software%20Engineering)
 - [LuizaLabs](https://www.99jobs.com/luizalabs/jobs)
 - [M4U](https://m4u.gupy.io/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)

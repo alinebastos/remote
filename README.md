@@ -76,6 +76,7 @@ Jobs and Tips for Remote Work
 - [Landing Jobs](https://landing.jobs)
 - [Lista com vários](https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0)
 - [Monster](https://www.monster.com/)
+- [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)
 - [Remote](https://remote.com)
 - [Remote](https://remote.co/remote-jobs/developer/)
 - [Remoteok](https://remoteok.io/remote-jobs/)

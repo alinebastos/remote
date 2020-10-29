@@ -4,7 +4,7 @@ Jobs and Tips for Remote Work
 
 ### Companies with remote positions
 
-- [Accenture](https://www.accenture.com/br-pt/careers/jobsearch?jk=&sb=1)
+- [Accenture](https://www.accenture.com/br-pt/careers/jobsearch)
 - [Automattic](https://automattic.com/work-with-us/)
 - [Avanade](https://www.avanade.com/pt-br/careers)
 - [Axios](https://www.axios.com/about#jobs)

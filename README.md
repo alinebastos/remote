@@ -36,6 +36,7 @@ Jobs and Tips for Remote Work
 - [BossaBox](https://bossabox.recruitee.com/#)
 - [CargoBr](https://cargobr.com/)
 - [Credere](https://meucredere.com.br)
+- [Dextra](https://apply.workable.com/dextra/)
 - [Enjoei](https://enjoei.gupy.io/)
 - [Estratégia Educacional](https://www.linkedin.com/company/estrategia-educacional/jobs/)
 - [iClinic](https://vagas.iclinic.com.br/)

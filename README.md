@@ -30,7 +30,7 @@ Jobs and Tips for Remote Work
 - [Tribe](https://tri.be/careers/)
 - [Zapier](https://zapier.com/jobs/)
 
-### Brazilian companies with remote positions
+### Brazilian companies with remote positions <kbd><img alt="Brazilan flag" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd>
 
 - [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
 - [BossaBox](https://bossabox.recruitee.com/#)

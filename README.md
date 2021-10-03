@@ -13,6 +13,7 @@ Jobs and tips for **Remote Work**.
 - [Axios](https://www.axios.com/about#jobs)
 - [Basecamp](https://basecamp.com/about/jobs) <sup>[[1]]</sup>
 - [Buffer](https://journey.buffer.com/) <sup>[[1]]</sup>
+- [Cardinal Path](https://www.cardinalpath.com/)
 - [Consensys](https://new.consensys.net/careers/)
 - [Cross Over](https://app.crossover.com/x/marketplace/available-jobs)
 - [Cycloid](https://www.cycloid.io/jobs)
@@ -21,6 +22,7 @@ Jobs and tips for **Remote Work**.
 - [Doist](https://doist.com/careers) <sup>[[1]]</sup>
 - [DuckDuckGo](https://duckduckgo.com/hiring/)
 - [Elastic](https://www.elastic.co/about/careers/) <sup>[[1]]</sup>
+- [Empower](https://empower.vision/)
 - [Figma](https://www.figma.com/careers/) <sup>[[1]]</sup>
 - [Firstbase](https://www.firstbasehq.com/careers) <sup>[[1]]</sup>
 - [GitHub](https://github.com/about/careers) <sup>[[1]]</sup>
@@ -31,7 +33,8 @@ Jobs and tips for **Remote Work**.
 - [HubSpot](https://www.hubspot.com/careers) <sup>[[1]]</sup>
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
 - [InVision](https://www.invisionapp.com/about#jobs) <sup>[[1]]</sup>
-- [LeanWork](https://www.leanwork.com.br/vagas)
+- [LeanWork](https://www.leanwork.com.br/vagas)    
+- [LinkNow](https://linknow.com/)
 - [Lobster Ink](https://lobsterink.com/careers/)
 - [Mixmax](https://mixmax.com/careers/)
 - [Mozilla](https://careers.mozilla.org/listings/?team=Mozilla%20Foundation) <sup>[[1]]</sup>

@@ -30,6 +30,7 @@ Jobs and Tips for remote work
 - [CargoBr](https://cargobr.com/) 
 - [Credere](https://meucredere.com.br)
 - [Enjoei](http://www.enjoei.com.br/)
+- [Gazeta do Povo](https://www.gazetadopovo.com.br/)
 - [iClinic](https://vagas.iclinic.com.br/)
 - [Impulso](https://impulso.network/)
 - [Instruct](http://instruct.com.br/jobs) 

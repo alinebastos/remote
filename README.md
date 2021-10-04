@@ -99,7 +99,7 @@ Jobs and tips for **Remote Work**.
 - [Landing Jobs](https://landing.jobs)
 - [Lista com vários](https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0)
 - [Monster](https://www.monster.com/)
-- [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)
+- [Programathor](https://programathor.com.br/)
 - [Remote](https://remote.com)
 - [Remote](https://remote.co/remote-jobs/developer/)
 - [Remoteok](https://remoteok.io/remote-jobs/)
@@ -109,6 +109,7 @@ Jobs and tips for **Remote Work**.
 - [StackOverflow](http://stackoverflow.com/jobs)
 - [Standard Resume](https://standardresume.co/remote-jobs)
 - [TechMeAbroad](https://techmeabroad.com/)
+- [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)
 - [Upwork](https://www.upwork.com/) <sup>[[1]]</sup>
 - [VanHack](http://vanhack.com)
 - [We Work Remotely](https://weworkremotely.com/)

@@ -33,6 +33,7 @@ Jobs and tips for **Remote Work**.
 - [HubSpot](https://www.hubspot.com/careers) <sup>[[1]]</sup>
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
 - [InVision](https://www.invisionapp.com/about#jobs) <sup>[[1]]</sup>
+- [Jobsity](https://www.jobsity.com/careers)
 - [LeanWork](https://www.leanwork.com.br/vagas)    
 - [LinkNow](https://linknow.com/)
 - [Lobster Ink](https://lobsterink.com/careers/)

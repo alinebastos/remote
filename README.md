@@ -63,6 +63,7 @@ Jobs and tips for **Remote Work**.
 - [e-Core](https://www.e-core.com/pt/carreiras/)
 - [Enjoei](https://enjoei.gupy.io/)
 - [Estratégia Educacional](https://www.linkedin.com/company/estrategia-educacional/jobs/)
+- [Gazeta do Povo](https://www.gazetadopovo.com.br/)
 - [iClinic](https://vagas.iclinic.com.br/)
 - [Impulso](https://impulso.network/lista-de-oportunidades)
 - [Instruct](http://instruct.com.br/jobs)

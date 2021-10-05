@@ -56,6 +56,7 @@ Jobs and tips for **Remote Work**.
 
 - [APOIA.se](https://descubra.apoia.se/trabalheconosco)
 - [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
+- [Alice](https://alice.com.br/)
 - [BossaBox](https://bossabox.recruitee.com/#)
 - [CargoBr](https://cargobr.com/)
 - [Compasso UOL](https://compasso.gupy.io/)

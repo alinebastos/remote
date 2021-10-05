@@ -55,6 +55,7 @@ Jobs and tips for **Remote Work**.
 - [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
 - [BossaBox](https://bossabox.recruitee.com/#)
 - [CargoBr](https://cargobr.com/)
+- [Compasso UOL](https://compasso.gupy.io/)
 - [Credere](https://meucredere.com.br)
 - [Dextra](https://apply.workable.com/dextra/)
 - [e-Core](https://www.e-core.com/pt/carreiras/)

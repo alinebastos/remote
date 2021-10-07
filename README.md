@@ -47,6 +47,7 @@ Jobs and tips for **Remote Work**.
 - [StackOverflow](https://stackoverflow.com/company/work-here)
 - [Status](https://status.im/contribute/open_positions.html)
 - [Stripe](https://stripe.com/jobs) <sup>[[1]]</sup>
+- [Telnyx](https://telnyx.com/)
 - [Toptal](https://www.toptal.com/careers)
 - [Trello](https://www.atlassian.com/company/careers/trello) <sup>[[1]]</sup>
 - [Tribe](https://tri.be/careers/)

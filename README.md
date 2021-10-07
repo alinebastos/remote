@@ -29,6 +29,7 @@ Jobs and tips for **Remote Work**.
 - [Github Brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [GitLab](https://about.gitlab.com/jobs/) <sup>[[1]]</sup>
 - [Graphy](https://graphyapp.com/careers) <sup>[[1]]</sup>
+- [Glofox](https://www.glofox.com/careers/)
 - [Groundbreaker](https://groundbreaker.co/careers/)
 - [HubSpot](https://www.hubspot.com/careers) <sup>[[1]]</sup>
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
@@ -41,6 +42,7 @@ Jobs and tips for **Remote Work**.
 - [Mozilla](https://careers.mozilla.org/listings/?team=Mozilla%20Foundation) <sup>[[1]]</sup>
 - [Open Collective](https://opencollective.com/hiring)
 - [OSF Digital](https://www.osf-global.com/jobs-at-osf)
+- [RedHat](https://www.redhat.com/en/jobs)
 - [Redox](https://www.redoxengine.com/company/careers/)
 - [Security Scorecard](https://securityscorecard.com/company/careers)
 - [SOS hace](https://soshace.com/)
@@ -81,6 +83,7 @@ Jobs and tips for **Remote Work**.
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)
+- [PicPay](https://picpay.gupy.io/)
 - [Sanar|Med](https://www.sanarmed.com/)
 - [Service](https://www.service.com.br/carreiras/)
 - [Sinqia](https://jobs.kenoby.com/sinqia)
@@ -89,7 +92,7 @@ Jobs and tips for **Remote Work**.
 - [Taller](https://blog.taller.net.br/taller-contrata/)
 - [Telefonica](https://vivo.gupy.io/)
 - [XP](https://www.xpi.com.br/carreiras/)
-
+- [Zup](https://www.zup.com.br/carreiras)
 ## Job Portals
 
 - [Angel](https://angel.co/)

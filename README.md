@@ -35,7 +35,7 @@ Jobs and tips for **Remote Work**.
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
 - [InVision](https://www.invisionapp.com/about#jobs) <sup>[[1]]</sup>
 - [Jobsity](https://www.jobsity.com/careers)
-- [LeanWork](https://www.leanwork.com.br/vagas)    
+- [LeanWork](https://www.leanwork.com.br/vagas)
 - [LinkNow](https://linknow.com/)
 - [Lobster Ink](https://lobsterink.com/careers/)
 - [Mixmax](https://mixmax.com/careers/)
@@ -91,8 +91,10 @@ Jobs and tips for **Remote Work**.
 - [Stefanini Everywhere](https://jobs.kenoby.com/everywhere)
 - [Taller](https://blog.taller.net.br/taller-contrata/)
 - [Telefonica](https://vivo.gupy.io/)
+- [Vertem](https://queroservertem.gupy.io/)
 - [XP](https://www.xpi.com.br/carreiras/)
 - [Zup](https://www.zup.com.br/carreiras)
+
 ## Job Portals
 
 - [Angel](https://angel.co/)

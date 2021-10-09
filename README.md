@@ -35,7 +35,7 @@ Jobs and tips for **Remote Work**.
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
 - [InVision](https://www.invisionapp.com/about#jobs) <sup>[[1]]</sup>
 - [Jobsity](https://www.jobsity.com/careers)
-- [LeanWork](https://www.leanwork.com.br/vagas)    
+- [LeanWork](https://www.leanwork.com.br/vagas)
 - [LinkNow](https://linknow.com/)
 - [Lobster Ink](https://lobsterink.com/careers/)
 - [Mixmax](https://mixmax.com/careers/)
@@ -71,6 +71,7 @@ Jobs and tips for **Remote Work**.
 - [Enjoei](https://enjoei.gupy.io/)
 - [Estratégia Educacional](https://www.linkedin.com/company/estrategia-educacional/jobs/)
 - [Gazeta do Povo](https://www.gazetadopovo.com.br/)
+- [Hypeflame](https://jobs.kenoby.com/hypeflame)
 - [iClinic](https://vagas.iclinic.com.br/)
 - [Impulso](https://impulso.network/lista-de-oportunidades)
 - [Instruct](http://instruct.com.br/jobs)
@@ -93,6 +94,7 @@ Jobs and tips for **Remote Work**.
 - [Telefonica](https://vivo.gupy.io/)
 - [XP](https://www.xpi.com.br/carreiras/)
 - [Zup](https://www.zup.com.br/carreiras)
+
 ## Job Portals
 
 - [Angel](https://angel.co/)

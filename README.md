@@ -125,6 +125,7 @@ Jobs and tips for **Remote Work**.
 - [Standard Resume](https://standardresume.co/remote-jobs)
 - [TechMeAbroad](https://techmeabroad.com/)
 - [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)
+- [Trampos.co](https://trampos.co/oportunidades)
 - [Upwork](https://www.upwork.com/) <sup>[[1]]</sup>
 - [VanHack](http://vanhack.com)
 - [We Work Remotely](https://weworkremotely.com/)

@@ -62,6 +62,7 @@ Jobs and tips for **Remote Work**.
 - [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
 - [Alice](https://alice.com.br/)
 - [BossaBox](https://bossabox.recruitee.com/#)
+- [BRQ](https://www.brq.com/venha-ser-fera/)
 - [CargoBr](https://cargobr.com/)
 - [Celk Sistemas](https://www.celk.com.br/home/)
 - [Compasso UOL](https://compasso.gupy.io/)

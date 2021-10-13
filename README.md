@@ -90,6 +90,7 @@ Jobs and tips for **Remote Work**.
 - [Olist](https://olist.com/carreira/)
 - [PicPay](https://picpay.gupy.io/)
 - [Sanar|Med](https://www.sanarmed.com/)
+- [SAP](https://www.sap.com/)
 - [Service](https://www.service.com.br/carreiras/)
 - [Sinqia](https://jobs.kenoby.com/sinqia)
 - [SmartMEI](https://smartmei.recruiterbox.com/jobs)

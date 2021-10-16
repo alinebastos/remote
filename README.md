@@ -58,6 +58,7 @@ Jobs and tips for **Remote Work**.
 
 ### Brazilian Companies <kbd><img alt="Brazilan flag" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd>
 
+- [Afterverse](https://afterverse.com/pt/careers#jobs)
 - [APOIA.se](https://descubra.apoia.se/trabalheconosco)
 - [AutoAvaliar](https://trabalheconosco.vagas.com.br/auto-avaliar/oportunidades)
 - [Alice](https://alice.com.br/)

@@ -81,6 +81,7 @@ Jobs and tips for **Remote Work**.
 - [Impulso](https://impulso.network/lista-de-oportunidades)
 - [Instruct](http://instruct.com.br/jobs)
 - [Invillia](https://invillia.gupy.io/)
+- [Iteris](https://jobs.kenoby.com/iteris) <sup>[Só aparece remoto ao clicar na vaga]</sup>
 - [Juno](https://juno.gupy.io/)
 - [LEVTY](https://levty.com/carreiras/vagas)
 - [Loft](https://jobs.lever.co/loft/?department=Loft&team=Software%20Engineering)
@@ -121,6 +122,7 @@ Jobs and tips for **Remote Work**.
 - [Lista com vários](https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0)
 - [Monster](https://www.monster.com/)
 - [Programathor](https://programathor.com.br/)
+- [Remotar](https://remotar.com.br/vagas/)
 - [Remote](https://remote.com)
 - [Remote](https://remote.co/remote-jobs/developer/)
 - [Remoteok](https://remoteok.io/remote-jobs/)
@@ -140,11 +142,13 @@ Jobs and tips for **Remote Work**.
 
 ## Newsletters
 
+- [Newsletter Remotar](https://remotar.com.br/#recebanovidades) - Newsletter da plataforma brasileira Remotar.
 - [Remote Jobs Club](https://remotejobsclub.com/) - Receive job oportunities in your email.
 
 ## Tips
 
 - [Como se preparar pra uma entrevista de desenvolvedor para fora do Brasil](https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7)
 - [Life hacks for software developers: how to find a job with relocation to Europe](http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/)
+- [O que as recrutadoras perguntam em uma entrevista remota (e como se preparar)](https://remotar.com.br/o-que-as-recrutadoras-perguntam-em-uma-entrevista-remota-e-como-se-preparar/)
 
 [1]: REFERENCES.md

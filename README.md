@@ -14,6 +14,7 @@ Jobs and tips for **Remote Work**.
 - [Basecamp](https://basecamp.com/about/jobs) <sup>[[1]]</sup>
 - [Buffer](https://journey.buffer.com/) <sup>[[1]]</sup>
 - [Cardinal Path](https://www.cardinalpath.com/)
+- [Cash App](https://cash.app/careers)
 - [Consensys](https://new.consensys.net/careers/)
 - [Cross Over](https://app.crossover.com/x/marketplace/available-jobs)
 - [Cycloid](https://www.cycloid.io/jobs)
@@ -46,6 +47,7 @@ Jobs and tips for **Remote Work**.
 - [Redox](https://www.redoxengine.com/company/careers/)
 - [Security Scorecard](https://securityscorecard.com/company/careers)
 - [SOS hace](https://soshace.com/)
+- [Square](https://careers.squareup.com/us/en/jobs)
 - [StackOverflow](https://stackoverflow.com/company/work-here)
 - [Status](https://status.im/contribute/open_positions.html)
 - [Stripe](https://stripe.com/jobs) <sup>[[1]]</sup>

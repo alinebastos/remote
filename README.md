@@ -109,6 +109,7 @@ Jobs and tips for **Remote Work**.
 
 ## Job Portals
 
+- [4 day week](https://4dayweek.io/)
 - [Angel](https://angel.co/)
 - [Back-end Brasil](https://github.com/backend-br/vagas/issues)
 - [Codenation](http://codenation.com.br/)

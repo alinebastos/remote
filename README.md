@@ -114,6 +114,7 @@ Jobs and tips for **Remote Work**.
 - [Back-end Brasil](https://github.com/backend-br/vagas/issues)
 - [Codenation](http://codenation.com.br/)
 - [Foundedinholland](http://foundedinholland.com/)
+- [freelancermap.com](https://www.freelancermap.com/projects/remote.html)
 - [Front-end Brasil](https://github.com/frontendbr/vagas/issues)
 - [Front-end Developer Jobs](http://frontenddeveloperjob.com/)
 - [Glassdoor](https://www.glassdoor.com/)

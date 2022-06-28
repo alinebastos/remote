@@ -134,7 +134,7 @@ Jobs and tips for **Remote Work**.
 - [RemoteRole](https://remoterole.com/)
 - [Remotive](https://remotive.io/find-a-job/#s=1)
 - [Skillcrush](https://skillcrush.com/2016/05/05/remote-tech-jobs/)
-- [StackOverflow](http://stackoverflow.com/jobs)
+- [Hotfixo](https://hotfixo.com/remote-jobs)
 - [Standard Resume](https://standardresume.co/remote-jobs)
 - [TechMeAbroad](https://techmeabroad.com/)
 - [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)

@@ -104,6 +104,7 @@ Jobs and tips for **Remote Work**.
 - [Taller](https://blog.taller.net.br/taller-contrata/)
 - [Telefonica](https://vivo.gupy.io/)
 - [Vertem](https://queroservertem.gupy.io/)
+- [Vinta](https://www.vinta.com.br/)
 - [XP](https://www.xpi.com.br/carreiras/)
 - [Zup](https://www.zup.com.br/carreiras)
 

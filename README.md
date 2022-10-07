@@ -95,6 +95,7 @@ Jobs and tips for **Remote Work**.
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)
 - [PicPay](https://picpay.gupy.io/)
+- [Revelo](https://www.revelo.com.br/para-candidatos)
 - [Sanar|Med](https://www.sanarmed.com/)
 - [SAP](https://www.sap.com/)
 - [Service](https://www.service.com.br/carreiras/)

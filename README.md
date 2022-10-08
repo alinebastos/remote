@@ -27,6 +27,7 @@ Jobs and tips for **Remote Work**.
 - [Empower](https://empower.vision/)
 - [Figma](https://www.figma.com/careers/) <sup>[[1]]</sup>
 - [Firstbase](https://www.firstbasehq.com/careers) <sup>[[1]]</sup>
+- [GFT](https://www.gft.com/br/pt/about-us/career)
 - [GitHub](https://github.com/about/careers) <sup>[[1]]</sup>
 - [Github Brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [GitLab](https://about.gitlab.com/jobs/) <sup>[[1]]</sup>
@@ -52,6 +53,7 @@ Jobs and tips for **Remote Work**.
 - [StackOverflow](https://stackoverflow.com/company/work-here)
 - [Status](https://status.im/contribute/open_positions.html)
 - [Stripe](https://stripe.com/jobs) <sup>[[1]]</sup>
+- [T-Systems](https://t-systems.jobs/global-careers-en)
 - [Telnyx](https://telnyx.com/)
 - [Toptal](https://www.toptal.com/careers)
 - [Trello](https://www.atlassian.com/company/careers/trello) <sup>[[1]]</sup>
@@ -90,6 +92,7 @@ Jobs and tips for **Remote Work**.
 - [LEVTY](https://levty.com/carreiras/vagas)
 - [Loft](https://jobs.lever.co/loft/?department=Loft&team=Software%20Engineering)
 - [LuizaLabs](https://www.99jobs.com/luizalabs/jobs)
+- [MagnaSistemas](https://magnasistemas.gupy.io/)
 - [M4U](https://m4u.gupy.io/)
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
@@ -157,5 +160,6 @@ Jobs and tips for **Remote Work**.
 - [Como se preparar pra uma entrevista de desenvolvedor para fora do Brasil](https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7)
 - [Life hacks for software developers: how to find a job with relocation to Europe](http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/)
 - [O que as recrutadoras perguntam em uma entrevista remota (e como se preparar)](https://remotar.com.br/o-que-as-recrutadoras-perguntam-em-uma-entrevista-remota-e-como-se-preparar/)
+- [Conheça 45 sites para você encontrar sua vaga de trabalho remoto ou home office](https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/)
 
 [1]: REFERENCES.md

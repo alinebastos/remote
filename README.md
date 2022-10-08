@@ -91,6 +91,7 @@ Jobs and tips for **Remote Work**.
 - [Loft](https://jobs.lever.co/loft/?department=Loft&team=Software%20Engineering)
 - [LuizaLabs](https://www.99jobs.com/luizalabs/jobs)
 - [M4U](https://m4u.gupy.io/)
+- [Magna Sistemas](https://magnasistemas.gupy.io/)
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)

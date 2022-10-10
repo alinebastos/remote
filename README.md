@@ -33,6 +33,8 @@ Jobs and tips for **Remote Work**.
 - [GitLab](https://about.gitlab.com/jobs/) <sup>[[1]]</sup>
 - [Graphy](https://graphyapp.com/careers) <sup>[[1]]</sup>
 - [Glofox](https://www.glofox.com/careers/)
+- [Gemography](https://go.gemography.com/li-jobs/)
+- [Gympass](https://boards.greenhouse.io/gympass/jobs/6298129002?gh_src=ec4b22a62us&s=LinkedIn&source=LinkedIn)
 - [Groundbreaker](https://groundbreaker.co/careers/)
 - [HubSpot](https://www.hubspot.com/careers) <sup>[[1]]</sup>
 - [Hubstaff](https://hubstaff.com/jobs) <sup>[[1]]</sup>
@@ -58,6 +60,7 @@ Jobs and tips for **Remote Work**.
 - [Toptal](https://www.toptal.com/careers)
 - [Trello](https://www.atlassian.com/company/careers/trello) <sup>[[1]]</sup>
 - [Tribe](https://tri.be/careers/)
+- [Turing](https://www.turing.com/pt/jobs)
 - [Upwork](https://careers.upwork.com/) <sup>[[1]]</sup>
 - [Zapier](https://zapier.com/jobs/) <sup>[[1]]</sup>
 
@@ -98,6 +101,7 @@ Jobs and tips for **Remote Work**.
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)
+- [Oowlish](https://jobs.lever.co/oowlish)
 - [PicPay](https://picpay.gupy.io/)
 - [Revelo](https://www.revelo.com.br/para-candidatos)
 - [Sanar|Med](https://www.sanarmed.com/)

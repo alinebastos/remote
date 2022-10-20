@@ -63,6 +63,7 @@ Jobs and tips for **Remote Work**.
 - [Turing](https://www.turing.com/pt/jobs)
 - [Upwork](https://careers.upwork.com/) <sup>[[1]]</sup>
 - [Zapier](https://zapier.com/jobs/) <sup>[[1]]</sup>
+- [Zendesk](https://jobs.zendesk.com/us/en/remote/)
 
 ### Brazilian Companies <kbd><img alt="Brazilan flag" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd>
 

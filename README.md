@@ -99,6 +99,7 @@ Jobs and tips for **Remote Work**.
 - [MagnaSistemas](https://magnasistemas.gupy.io/)
 - [M4U](https://m4u.gupy.io/)
 - [Magna Sistemas](https://magnasistemas.gupy.io/)
+- [Méliuz](https://meliuz.gupy.io/)
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)

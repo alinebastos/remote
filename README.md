@@ -164,6 +164,14 @@ Jobs and tips for **Remote Work**.
 - [Newsletter Remotar](https://remotar.com.br/#recebanovidades) - Newsletter da plataforma brasileira Remotar.
 - [Remote Jobs Club](https://remotejobsclub.com/) - Receive job oportunities in your email.
 
+## Where to practice for technical challenges made by companies from abroad
+
+- [Hackerhank](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [LeetCode Explore](https://leetcode.com/explore/)
+- [LeetCode Problems](https://leetcode.com/problemset/all/)
+- [LeetCode Mock Assessment](https://leetcode.com/assessment/)
+- [Book - Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+
 ## Tips
 
 - [Como se preparar pra uma entrevista de desenvolvedor para fora do Brasil](https://medium.com/@rodrigoospinto/como-se-preparar-pra-uma-entrevista-de-desenvolvedor-para-fora-do-brasil-1ac8e8ee6d98#.s5mfnfkc7)

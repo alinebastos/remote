@@ -63,6 +63,7 @@ Jobs and tips for **Remote Work**.
 - [Turing](https://www.turing.com/pt/jobs)
 - [Upwork](https://careers.upwork.com/) <sup>[[1]]</sup>
 - [Zapier](https://zapier.com/jobs/) <sup>[[1]]</sup>
+- [Zendesk](https://jobs.zendesk.com/us/en/remote/)
 
 ### Brazilian Companies <kbd><img alt="Brazilan flag" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd>
 
@@ -98,6 +99,7 @@ Jobs and tips for **Remote Work**.
 - [MagnaSistemas](https://magnasistemas.gupy.io/)
 - [M4U](https://m4u.gupy.io/)
 - [Magna Sistemas](https://magnasistemas.gupy.io/)
+- [Méliuz](https://meliuz.gupy.io/)
 - [Meta](https://www.meta.com.br/talentos/)
 - [Mundiale](https://www.mundiale.com.br/carreira/)
 - [Olist](https://olist.com/carreira/)
@@ -132,8 +134,10 @@ Jobs and tips for **Remote Work**.
 - [Indeed](https://www.indeed.com/)
 - [It Jobs](https://itjobs.pt)
 - [Job boards](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
+- [Jobbio](https://jobbio.com/)
 - [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)
 - [Landing Jobs](https://landing.jobs)
+- [Linkedin](https://www.linkedin.com/jobs/)
 - [Lista com vários](https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0)
 - [Monster](https://www.monster.com/)
 - [Programathor](https://programathor.com.br/)
@@ -159,6 +163,14 @@ Jobs and tips for **Remote Work**.
 
 - [Newsletter Remotar](https://remotar.com.br/#recebanovidades) - Newsletter da plataforma brasileira Remotar.
 - [Remote Jobs Club](https://remotejobsclub.com/) - Receive job oportunities in your email.
+
+## Where to practice for technical challenges made by companies from abroad
+
+- [Hackerhank](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [LeetCode Explore](https://leetcode.com/explore/)
+- [LeetCode Problems](https://leetcode.com/problemset/all/)
+- [LeetCode Mock Assessment](https://leetcode.com/assessment/)
+- [Book - Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 
 ## Tips
 

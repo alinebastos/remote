@@ -111,6 +111,7 @@ Jobs and tips for **Remote Work**.
 - [Service](https://www.service.com.br/carreiras/)
 - [Sinqia](https://jobs.kenoby.com/sinqia)
 - [SmartMEI](https://smartmei.recruiterbox.com/jobs)
+- [South System](https://southsystem.com.br/carreiras/)
 - [Stefanini Everywhere](https://jobs.kenoby.com/everywhere)
 - [Taller](https://blog.taller.net.br/taller-contrata/)
 - [Telefonica](https://vivo.gupy.io/)
@@ -178,5 +179,6 @@ Jobs and tips for **Remote Work**.
 - [Life hacks for software developers: how to find a job with relocation to Europe](http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/)
 - [O que as recrutadoras perguntam em uma entrevista remota (e como se preparar)](https://remotar.com.br/o-que-as-recrutadoras-perguntam-em-uma-entrevista-remota-e-como-se-preparar/)
 - [Conheça 45 sites para você encontrar sua vaga de trabalho remoto ou home office](https://www.napratica.org.br/sites-para-encontrar-trabalho-remoto/)
+- [Como ir bem na entrevista remota](https://www.youtube.com/watch?v=BLwH_9p48hQ)
 
 [1]: REFERENCES.md

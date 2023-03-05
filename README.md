@@ -157,6 +157,7 @@ Jobs and tips for **Remote Work**.
 - [Upwork](https://www.upwork.com/) <sup>[[1]]</sup>
 - [VanHack](http://vanhack.com)
 - [We Work Remotely](https://weworkremotely.com/)
+- [Web3 Jobs](https://web3.career/)
 - [Women Who Code](https://www.womenwhocode.com/jobs)
 - [Working Nomads](https://www.workingnomads.co/)
 

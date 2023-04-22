@@ -131,6 +131,7 @@ Jobs and tips for **Remote Work**.
 - [Front-end Developer Jobs](http://frontenddeveloperjob.com/)
 - [Glassdoor](https://www.glassdoor.com/)
 - [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html)
+- [Himalayas](https://himalayas.app)
 - [Impulso](https://impulso.work)
 - [Indeed](https://www.indeed.com/)
 - [It Jobs](https://itjobs.pt)

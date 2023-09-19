@@ -167,7 +167,7 @@ Jobs and tips for **Remote Work**.
 
 ## Where to practice for technical challenges made by companies from abroad
 
-- [Hackerhank](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [Hackerank](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [LeetCode Explore](https://leetcode.com/explore/)
 - [LeetCode Problems](https://leetcode.com/problemset/all/)
 - [LeetCode Mock Assessment](https://leetcode.com/assessment/)

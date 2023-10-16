@@ -78,6 +78,7 @@ Jobs and tips for **Remote Work**.
 - [Celk Sistemas](https://www.celk.com.br/home/)
 - [Compasso UOL](https://compasso.gupy.io/)
 - [Credere](https://meucredere.com.br)
+- [Dafiti](https://www.dafitigroup.com/oportunidades)
 - [Dextra](https://apply.workable.com/dextra/)
 - [Digio](https://digio.gupy.io/)
 - [Dock tech](https://dock.gupy.io/)

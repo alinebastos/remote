@@ -141,6 +141,7 @@ Jobs and tips for **Remote Work**.
 - [Linkedin](https://www.linkedin.com/jobs/)
 - [Lista com vários](https://docs.google.com/spreadsheets/d/1rtHao8rpI2aRA678ASQK-7NXpHcumd4LQGTtq5y7AiE/edit#gid=0)
 - [Monster](https://www.monster.com/)
+- [OkJob](https://okjob.io/remote-4-day-work-week/)
 - [Programathor](https://programathor.com.br/)
 - [Remotar](https://remotar.com.br/vagas/)
 - [Remote](https://remote.com)

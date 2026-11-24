@@ -152,6 +152,7 @@ Jobs and tips for **Remote Work**.
 - [StackOverflow](http://stackoverflow.com/jobs)
 - [Standard Resume](https://standardresume.co/remote-jobs)
 - [TechMeAbroad](https://techmeabroad.com/)
+- [EuroJobs.ai](https://eurojobs.ai/) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable). Filters for visa sponsorship, English-speaking teams, remote, and salary. 🇪🇺
 - [ThoughtWorks](https://www.thoughtworks.com/careers/jobs/)
 - [Trampos.co](https://trampos.co/oportunidades)
 - [Upwork](https://www.upwork.com/) <sup>[[1]]</sup>
